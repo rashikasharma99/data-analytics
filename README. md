@@ -1,0 +1,23 @@
+# Data Analytics Projects  
+## Customer Churn Prediction
+This project focuses on predicting customer churn using data analysis.
+files:
+- Customer_Churn_Prediction.ipynb
+- Customer_Churn_History.xlsx
+
+Tools used:
+- Python
+- Jupyter Notebook
+- Excel
+
+## Land price Prediction
+This project focuses on Predicting Land prices using historical land sales data.
+files:
+- Land_Price_Prediction.ipynb
+- Land_Sales_History.xlsx
+
+Tools used:
+- Python
+- jupyter Notebook
+- Excel
+
